@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    border: 5px solid blue;
+    background-color: rgb(146, 146, 250);
+    margin: 5px;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child{
+    border: solid 5px rgb(176, 6, 6);
+    background-color: rgb(243, 120, 120);
+    font-weight: bold;
+    text-align: center;
+    height: 80px;
+    width: 80px;
+}

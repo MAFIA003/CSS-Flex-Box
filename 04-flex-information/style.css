@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    text-align: center;
+    background: #eee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title{
+    font-weight: bold;
+    font-size: 36px;
+    margin-bottom: 32px
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+.info{
+    max-width: 200px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
