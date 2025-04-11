@@ -1,2 +1,2 @@
 # CSS-Flex-Box
-IN this folder you have example of several flex box style. 
+IN this folder you have several example of flex box style. 
